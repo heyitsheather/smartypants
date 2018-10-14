@@ -1,0 +1,2 @@
+# smartypants
+JS Exercises
